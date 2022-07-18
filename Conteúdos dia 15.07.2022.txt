@@ -1,0 +1,13 @@
+No CMD
+dir - vai listar o que está na pasta
+cd - vai abir a pasta (change directory)
+dir Windows - vai listar a pasta Windows
+cd .. - vai voltar
+cls - clear scream vai limpar a tela
+cd W + tab - ele vai autocompletar e escrever Windows
+mkdir - make directory vai criar uma pasta
+echo - printa o que vc digitou e devolve
+> é um redirecionador de fluxo
+então se escreve echo hello > hello.txt que será criada uma pasta
+del + nome da pasta - vai deletar o que está dentro dela
+rmdir “remove directory” + nome da pasta + /S /Q - vai excluir a pasta/repositório
